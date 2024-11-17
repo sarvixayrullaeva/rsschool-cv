@@ -1,0 +1,152 @@
+@font-face {
+  font-family: "Merriweather-Regular";
+  src: url("../fonts/Merriweather-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Sacramento-Regular";
+  src: url("../fonts/Sacramento-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Montserrat-Regular";
+  src: url("../fonts/Montserrat-Regular.ttf") format("truetype");
+}
+body {
+  color: #40514e;
+  margin: 0px;
+  text-align: center;
+  font-family: "Merriweather-Regular", sans-serif;
+}
+hr {
+  border-top: 7px dotted #e7c585;
+  margin: 100px auto 100px auto;
+  width: 4%;
+}
+p {
+  line-height: 2;
+}
+h1 {
+  color: #eb5b00;
+  margin: 50px auto 0px auto;
+  font-family: "Sacramento-Regular", cursive;
+  font-size: 90px;
+}
+h2 {
+  color: #eb5b00;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 2.5 rem;
+}
+h3 {
+  color: #ff8225;
+  font-family: "Montserrat-Regular", sans-serif;
+}
+a {
+  color: #eb5b00;
+  font-family: "Montserrat-Regular", sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover {
+  color: #ffffff;
+}
+.top-container {
+  background-color: #f3feb8;
+  padding-top: 50px;
+  padding-bottom: 100px;
+}
+.middle-container {
+  margin: 100px 0px;
+}
+.bottom-container {
+  background-color: #ff8f39;
+  padding: 50px 0px 20px;
+}
+.intro {
+  width: 30%;
+  margin: auto;
+}
+.pimg {
+  width: 200px;
+  height: 200px;
+}
+.code {
+  width: 200px;
+  height: 200px;
+  float: left;
+  margin-right: 30px;
+}
+.photographer {
+  width: 200px;
+  height: 200px;
+  float: right;
+  margin-left: 30px;
+}
+
+.web {
+  text-decoration: underline;
+}
+.top-img {
+  position: absolute;
+  right: 250px;
+  top: 100px;
+  height: 200px;
+  width: 250px;
+}
+.bottom-img {
+  position: relative;
+  height: 600px;
+  width: 650px;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.lang {
+    margin: 40px auto 60px;
+  line-height: 30px;
+}
+.lang ul li {
+    list-style: none;
+}
+.courses{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.courses table thead tr th {
+    color:#ff8225;
+}
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.btn {
+  background: #f58311;
+  background-image: -webkit-linear-gradient(top, #f58311, #f7a816);
+  background-image: -moz-linear-gradient(top, #f58311, #f7a816);
+  background-image: -ms-linear-gradient(top, #f58311, #f7a816);
+  background-image: -o-linear-gradient(top, #f58311, #f7a816);
+  background-image: linear-gradient(to bottom, #f58311, #f7a816);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #eba940;
+  background-image: -webkit-linear-gradient(top, #eba940, #f2ed6a);
+  background-image: -moz-linear-gradient(top, #eba940, #f2ed6a);
+  background-image: -ms-linear-gradient(top, #eba940, #f2ed6a);
+  background-image: -o-linear-gradient(top, #eba940, #f2ed6a);
+  background-image: linear-gradient(to bottom, #eba940, #f2ed6a);
+  text-decoration: none;
+}
+.copyright {
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  padding: 20px 0px;
+}
