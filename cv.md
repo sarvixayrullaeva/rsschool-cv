@@ -1,4 +1,5 @@
 # Sarvinoz Khayrullaeva 
+
 ## Web Developer
 
 I am a student of Webster University in Tashkent studying Bachelor of Science: MIS (Managment Information Systems). I ❤️ taking pictures, learning languages and reading books.
@@ -19,7 +20,7 @@ I have a keen eye for photography and videography, especially when it comes to c
 - Arabic (beginner)
 
 ## Education/ Courses: 
-- Webster University in Tashkent  -*Major*: MIS (Management Information Systems) -*Duration*: 2022-2026
+- Webster University in Tashkent  -*Major*: MIS (Management Information Systems): 2022-2026
 - Online course: Full Digital Front-end (7 months)
 - Online course from Udemy: The complete 2024 Web Development Bootcamp
 - Online course: Basic Arabic Reading- First Steps in Learning Arabic
